@@ -1,20 +1,39 @@
-##Saigon - Mansonry Jekyll Blog Theme
+# Bef is a responsive jekyll theme
 
-* Color palette of http://clrs.cc
-* Demo http://hoffli.github.io/saigon-jekyll-theme/
+Bef - Blog Enjoy Freedom is a responsive jekyll theme which created to be simple and freedom.
 
-Based on a jekyll mansonry theme by Pasindu:
+## Demo
 
-* Original demo - http://pasindud.github.io/
-* Dev by Pasindu De Silva
-* Authored by [Arunoda](https://github.com/arunoda)
+Check the theme in action [Demo](https://artemsheludko.github.io/bef/)
 
-##License
+The main page would look like this:
 
-The MIT License (MIT)
+![Main page preview](https://github.com/artemsheludko/bef/blob/master/assets/img/bef_main_page.jpg?raw=true)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The post page would look like this:
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+![Post page preview](https://github.com/artemsheludko/bef/blob/master/assets/img/bef_post.jpg?raw=true)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+## Features
+
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](http://fontawesome.io/)
+- [Vide](http://vodkabears.github.io/vide/)
+- [Disqus](https://disqus.com/)
+- [MailChimp](https://mailchimp.com/)
+- [Formspree!](https://formspree.io/)
+- [Analytics](https://analytics.google.com/analytics/web/)
+- Share Buttons, Recent Post, Section Author, Contact and more...
+
+## Installation:
+
+Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
+
+## License
+
+GNU General Public License v3.0
+
+## Donate
+
+<p>If you like the themes that I create you can become my sponsor on <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>.
+<p align="center"><b>Thank you for your support ❤️</b></p>
