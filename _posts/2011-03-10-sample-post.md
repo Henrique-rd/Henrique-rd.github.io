@@ -1,100 +1,22 @@
 ---
 layout: post
-title: Sample Post
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-modified: 2014-12-24
-tags: [sample post]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+title: Como comecei a jogar?
+author: Henrique Ribeiro Diniz
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+Quando a Pandemia se iniciou, não sabiamos o quão duradoura ela seria. Com o passar das semas percebemos que ia se estendendo mais que o esperado, digo no plural, pois eu e uns amigos começamos a jogar alguns jogos acades. Quando percebemos que isso ia longe, começamos a jogar WoW, um jogo rpg mundialmente conhecido. E com o tempo, o pessoal desanimou do jogo, e quis procurar outro.
 
-# Heading 1
+Daí surgiu a ideia de jogar Dota2. Um dos meus amigos já conhecia bem o jogo, e se diponibilizou para ensinar como joga,porém acho que ele se arrependeu no início. Eramos 4 iniciantes, e um jogador intermediário. Eu confesso que fui o que mais criticou o jogo, pois jogava um outro parecido, mas com as mecânicas muito diferentes. O interessante, é que Dota era um mod de Warcraft, que originou o WoW.
 
-## Heading 2
+Após meses jogando, quando as aulas começaram online, eu me empolguei no jogo, e hoje sou um dos mais animados para jogar. É um pouco difícil conciliar o jogo com a faculdade, mas dou um jeitinho. Não tem uma semana que deixamos de jogar. Recomendo bastante o jogo. E se Animarem basta me adicionar!
 
-### Heading 3
 
-#### Heading 4
 
-##### Heading 5
 
-###### Heading 6
 
-### Body text
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 
-![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
-{: .image-right}
 
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
 
-HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
 
-### Blockquotes
 
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-## Code Snippets
-
-Syntax highlighting via Rouge
-
-```css
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-```
-
-Non Pygments code example
-
-    <div id="awesome">
-        <p>This is great isn't it?</p>
-    </div>
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-```html
-<a href="/" class="ui positive button">Success Button</a>
-```
-
-<a href="/" class="ui primary button">Primary Button</a>
-<a href="/" class="ui secondary button">Secondary Button</a>
-<a href="/" class="ui positive button">Positive Button</a>
-<a href="/" class="ui negative button">Negative Button</a>
