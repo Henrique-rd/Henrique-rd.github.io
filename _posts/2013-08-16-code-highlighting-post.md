@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Um pouco sobre como o jogo funciona
-author: Henrique Ribeiro Diniz
 ---
 
 Dota 2 é um estilo de jogo MOBA, é um termo dado para um estilo de jogo onde há multiplayer online em batalhas de equipes ao qual você tem que usar estratégias em tempo real. Neste estilo você não precisa gerenciar torres ou uma base, você somente joga com um personagem. No caso do Dota 2 você escolhe um herói e se une com outras pessoas para proteger a sua base e destruir a base do inimigo. A equipe que destruir a base inimiga primeiro, vence a partida.

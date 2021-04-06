@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Adaptação na Netflix"
-author: Henrique Ribeiro Diniz
 ---
 
 O anime DOTA: Dragon’s Blood já está disponível na Netflix! A produção foi disponibilizada nessa quinta-feira (25) e é baseada no universo criado no jogo de videogame DOTA 2. O anime acompanha Davion, um Cavaleiro do Dragão cujo objetivo é livrar o mundo das forças do mal. A 1ª temporada conta com 8 episódios de cerca de 25 minutos cada. Na trama, Davion encontra a Princesa Mirana e um antigo dragão. Com isso, ele se envolve em eventos maiores do que imaginava. Por tratar-se de um universo mitológico, muitos espectadores ficaram curiosos com o mundo mágico criado tanto na série quanto nos jogos de videogame.
