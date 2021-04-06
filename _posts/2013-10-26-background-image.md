@@ -1,11 +1,8 @@
 ---
 layout: post
 title: Um pouco da história de Dota 2
-description: "Sample post with a background image CSS override."
-tags: [sample post]
-author: Abhishek
+author: Henrique Ribeiro Diniz
 image:
-  background: triangular.png
 ---
 
 DotA 2 é um MOBA (Multiplayes Onlie Battle Arena) que começou a ser desenvolvido no ano de 2010. A ideia para que o game surgisse foi a invasão de alguns jogadores aos sistemas de desenvolvimento do DotA All Star, a primeira versão do jogo. A ação provocou muito desconforto entre os jogadores que acabaram prejudicados durante as partidas. O resultado? Frustação e mais estresse que diversão.
