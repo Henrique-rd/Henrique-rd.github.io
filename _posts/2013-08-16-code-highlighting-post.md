@@ -1,95 +1,13 @@
 ---
 layout: post
-title: Syntax Highlighting Post
-description: "Demo post displaying the various ways of highlighting code in Markdown."
-modified: 2016-06-01T15:27:45-04:00
-tags: [sample post, code, highlighting]
-author: Abhishek
-image:
-  feature: abstract-10.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+title: Um pouco sobre como o jogo funciona
+author: Henrique Ribeiro Diniz
 ---
 
-Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.[^1]
+Dota 2 é um estilo de jogo MOBA, é um termo dado para um estilo de jogo onde há multiplayer online em batalhas de equipes ao qual você tem que usar estratégias em tempo real. Neste estilo você não precisa gerenciar torres ou uma base, você somente joga com um personagem. No caso do Dota 2 você escolhe um herói e se une com outras pessoas para proteger a sua base e destruir a base do inimigo. A equipe que destruir a base inimiga primeiro, vence a partida.
 
-[^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
+O Dota 2 está disponível para Windows, Linux e Mac OS Classic. O jogo é gratuito e você pode optar por comprar itens cosméticos para mudar a aparência de seus personagens e de sua interface. Para poder jogar Dota 2, você primeiro precisa usar uma conta na loja Steam ou criar uma nova. O cadastro é também gratuito. Basta clicar aqui e seguir as instruções. Note que depois de criar a conta na Steam, você deve instalar o aplicativo da loja, é através dele que você vai baixar o Dota 2.
 
-### GFM Code Blocks
+Você pode ir diretamente na página do jogo ou então fazer uma pesquisa no aplicativo da Steam, clicando no botão “LOJA” e digitando o nome no campo de pesquisa. Clique no botão “Jogar” , o download vai começar, pode demorar bastante para baixar já que ele tem em torno de 15 Gigas de tamanho. Antes de baixar, certifique-se que o seu computador tem os requerimentos para rodar o jogo, na página oficial na Steam, você pode conferir o que é necessário na seção “Requisitos de Sistema”. Com o jogo já baixado, você tem que instalar. O processo é bem simples e automático, todo o aplicativo da Steam está em português, basta seguir os passos.
 
-GitHub Flavored Markdown [fenced code blocks](https://help.github.com/articles/creating-and-highlighting-code-blocks/) are supported. To modify styling and highlight colors edit `/_sass/syntax.scss`.
-
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
-
-{% highlight scss %}
-.highlight {
-  margin: 0;
-  padding: 1em;
-  font-family: $monospace;
-  font-size: $type-size-7;
-  line-height: 1.8;
-}
-{% endhighlight %}
-
-{% highlight html %}
-{% raw %}<nav class="pagination" role="navigation">
-  {% if page.previous %}
-    <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous article</a>
-  {% endif %}
-  {% if page.next %}
-    <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
-  {% endif %}
-</nav><!-- /.pagination -->{% endraw %}
-{% endhighlight %}
-
-{% highlight html linenos %}
-{% raw %}<nav class="pagination" role="navigation">
-  {% if page.previous %}
-    <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous article</a>
-  {% endif %}
-  {% if page.next %}
-    <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
-  {% endif %}
-</nav><!-- /.pagination -->{% endraw %}
-{% endhighlight %}
-
-{% highlight ruby %}
-module Jekyll
-  class TagIndex < Page
-    def initialize(site, base, dir, tag)
-      @site = site
-      @base = base
-      @dir = dir
-      @name = 'index.html'
-      self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'tag_index.html')
-      self.data['tag'] = tag
-      tag_title_prefix = site.config['tag_title_prefix'] || 'Tagged: '
-      tag_title_suffix = site.config['tag_title_suffix'] || '&#8211;'
-      self.data['title'] = "#{tag_title_prefix}#{tag}"
-      self.data['description'] = "An archive of posts tagged #{tag}."
-    end
-  end
-end
-{% endhighlight %}
-
-### Code Blocks in Lists
-
-Indentation matters. Be sure the indent of the code block aligns with the first non-space character after the list item marker (e.g., `1.`). Usually this will mean indenting 3 spaces instead of 4.
-
-1. Do step 1.
-2. Now do this:
-   
-  {% highlight ruby %}
-   def print_hi(name)
-     puts "Hi, #{name}"
-   end
-   print_hi('Tom')
-   #=> prints 'Hi, Tom' to STDOUT.
-   {% endhighlight %}
+Existe uma curva grande na aprendizagem de Dota 2. Nesse jogo não basta que você saiba controlar os personagens. O seu primeiro e pequeno passo, é fazer o tutorial do jogo que é muito básico e somente lhe mostra alguns dos comandos e objetivos. Existe uma seção somente para tutoriais e se você está começando agora, você não pode deixar de fazê-los. Você se assustou com tanta informação para aprender? Não se sinta assim, apesar de ser muito a princípio, com o tempo você vai se acostumando. E acredite em mim, depois que você começar a jogar bem no Dota 2, você vai se divertir muito e consequentemente viciar, a ponto de querer jogar sempre. Todo o seu esforço será recompensado com horas maravilhosas jogando, perdendo até a noção do tempo.
