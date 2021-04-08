@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Funções dos Heróis"
-author: Henrique Ribeiro Diniz
+
 ---
 
 Cada herói possui uma característica única e também semelhanças entre si. Saber o papel para qual cada herói é destinado é ESSENCIAL. Saiba que não existe o melhor herói de todos, cada um deles pode ser usados em situações diferentes (alguns levam clara vantagem sobre outros em determinadas situações). Cada personagem tem o seu papel na batalha: Alguns são melhores para atacar, outros para defender ou dar suporte. Lembre-se que um mesmo herói pode se dar muito bem em vários papéis no jogo. Uma partida pode ser decidida através dos heróis que foram escolhidos. No Dota 2 você somente escolhe o seu personagem uma vez para cada partida (depois de escolhido, não pode ser alterado na mesma partida).
